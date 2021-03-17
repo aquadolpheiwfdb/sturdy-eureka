@@ -1,0 +1,77 @@
+#con {
+    background-color:aliceblue;
+    font-size: 20px;
+}
+
+#hom {
+       background-color:antiquewhite;
+        font-size: 20px;
+
+
+}
+
+#scho {
+       background-color:aqua;
+        font-size: 20px;
+
+}
+
+#ap {
+       background-color:aquamarine;
+        font-size: 20px;
+
+}
+
+#staff {
+    background-color: coral;
+        font-size: 20px;
+
+}
+
+#a {
+    width:130%;
+}
+
+#hred {
+    font-size: 50px;
+}
+
+#red {
+    margin: 20px;
+    height: 210px;
+}
+
+h5 {
+    font-size: 50px;
+}
+
+.modal fade {
+    width:1000px;
+}
+
+#ben {
+    width: 1000px;
+}
+
+
+#raha {
+    width: 300px;
+    height: 90px;
+}
+
+.navbar-header {
+    height: 90px;
+    text-align:center;
+margin-top: 20px;
+    font-size:50px;
+
+}
+
+#contact {
+    font-size:200px;
+}
+
+
+.nav navbar-nav {
+font-size: 200px;
+}
